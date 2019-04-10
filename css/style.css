@@ -190,8 +190,8 @@ img{
 
 #primeit{
   max-height: 40px;
-  margin-right: 20vw;
-  margin-left: 20vw;
+  margin-right: 15vw;
+  margin-left: 15vw;
 }
 #tdx{
   max-height: 48px;
@@ -211,6 +211,33 @@ img{
   margin-right: 25vw;
   margin-left: 25vw;
   max-height: 40px;
+}
+#tulalabs{
+  margin-right: 30vw;
+  margin-left: 20vw;
+  max-height: 32px;
+}
+#flui{
+  margin-right: 20vw;
+  margin-left: 15vw;
+  max-height: 40px;
+}
+#whitesmith{
+  margin-right: 15vw;
+  margin-left: 20vw;
+  max-height: 40px;
+}
+
+#whitesmith2{
+  max-height: 56px;
+}
+
+#flui2{
+  max-height: 40px;
+}
+
+#tulalabs2{
+  max-height: 24px;
 }
 
 #enging2{
@@ -579,6 +606,16 @@ p{
   padding-bottom: 24px;
 }
 
+#titulodescricao{
+  color: #909090;
+  font-family: ff-good-headline-web-pro-con, sans-serif;
+  font-style: normal;
+  font-weight: 300;
+  text-align: left;
+  margin: 0px;
+  font-size: 32px;
+}
+
 #descricao{
   color: #404040;
   font-family: ff-good-web-pro, sans-serif;
@@ -597,7 +634,16 @@ p{
   text-align: left;
   font-size: 20px;
   margin-top: 0px;
-  padding-top: 50px;
+  padding-top: 10px;
+}
+#descricao3{
+  color: #404040;
+  font-family: ff-good-web-pro, sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  text-align: left;
+  font-size: 20px;
+  padding-bottom: 30px;
 }
 
 #goback{
@@ -785,6 +831,9 @@ p{
   #tipo-estagio{
     text-align: center;
   }
+  #titulodescricao{
+    text-align: center;
+  }
   #accenture{
     max-height: 40px;
     margin-right: 10vw;
@@ -816,8 +865,8 @@ p{
 
   #primeit{
     max-height: 48px;
-    margin-right: 10vw;
-    margin-left: 10vw;
+    margin-right: 5vw;
+    margin-left: 5vw;
   }
   #tdx{
     max-height: 56px;
@@ -836,6 +885,32 @@ p{
     margin-right: 10vw;
     margin-left: 10vw;
     max-height: 40px;
+  }
+  #tulalabs{
+    margin-right: 10vw;
+    margin-left: 0vw;
+    max-height: 40px;
+  }
+  #flui{
+    margin-left: 10vw;
+    max-height: 48px;
+  }
+  #whitesmith{
+    margin-right: 10vw;
+    margin-left: 10vw;
+    max-height: 64px;
+  }
+
+  #whitesmith2{
+    max-height: 56px;
+  }
+
+  #flui2{
+    max-height: 40px;
+  }
+
+  #tulalabs2{
+    max-height: 24px;
   }
 
   #accenture2{
@@ -880,6 +955,16 @@ p{
     text-align: center;
     font-size: 20px;
     padding-top: 100px;
+}
+  #descricao3{
+    color: #404040;
+    font-family: ff-good-web-pro, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    text-align: center;
+    font-size: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
 }
   .endinginternship{
     padding-top: 80px;
