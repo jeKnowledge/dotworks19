@@ -217,6 +217,11 @@ img{
   margin-left: 20vw;
   max-height: 32px;
 }
+#nest{
+  margin-right: 10vw;
+  margin-left: 25vw;
+  max-height: 32px;
+}
 #flui{
   margin-right: 20vw;
   margin-left: 15vw;
@@ -239,7 +244,9 @@ img{
 #tulalabs2{
   max-height: 24px;
 }
-
+#nest2{
+  max-height: 48px;
+}
 #enging2{
   max-height: 32px;
 }
@@ -891,6 +898,11 @@ p{
     margin-left: 0vw;
     max-height: 40px;
   }
+  #nest{
+    margin-right: 5vw;
+    margin-left: 8vw;
+    max-height: 40px;
+  }
   #flui{
     margin-left: 10vw;
     max-height: 48px;
@@ -912,7 +924,9 @@ p{
   #tulalabs2{
     max-height: 24px;
   }
-
+  #nest2{
+    max-height: 40px;
+  }
   #accenture2{
     max-height: 32px;
   }
